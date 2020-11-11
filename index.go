@@ -1,4 +1,4 @@
-// An implementation of Game of Life.
+// Implementação do Gamer
 package main
 
 import (
